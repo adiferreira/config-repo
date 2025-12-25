@@ -1,2 +1,0 @@
-example:
-  property: '[classpath:] organization-service.yml: DEFAULT'
