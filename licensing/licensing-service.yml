@@ -14,7 +14,6 @@ spring:
         format_sql: true
     database: POSTGRESQL
     show-sql: true
-
   datasource:
     platform: postgres
     testWhileIdle: true
@@ -30,7 +29,6 @@ management:
 eureka:
   instance:
     preferIpAddress: true
-
   client:
     registerWithEureka: true
     fetchRegistry: true

@@ -1,2 +1,8 @@
 example:
   property: '[classpath:] organization-service-prod.yml: PROD'
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ostock_dev
+    username: postgres
+    password: postgres
