@@ -25,6 +25,14 @@ management:
       exposure:
         include: '*'
     enabled-by-default: true
+    health:
+      enabled: true
+      show-details: always
+  health:
+    db:
+      enabled: true
+    diskspace:
+      enabled: true
 
 eureka:
   instance:

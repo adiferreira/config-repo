@@ -3,6 +3,6 @@ example:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/ostock_dev
-    username: postgres
+    url: jdbc:postgresql://localhost:5432/prod?currentSchema=organization
+    username: prod
     password: postgres

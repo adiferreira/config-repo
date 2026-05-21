@@ -1,2 +1,2 @@
 # config-repo
-Spring Cloud Config Server Repository
+Spring Cloud Config Server GitHub Repository
