@@ -1,5 +1,5 @@
 example:
-  property: '[classpath:] organization-service.yml: DEFAULT'
+  property: '[GitHub] organization-service.yml: DEFAULT'
 
 spring:
   database:

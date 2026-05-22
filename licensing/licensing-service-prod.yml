@@ -1,5 +1,5 @@
 example:
-  property: '[classpath:/config] licensing-service-prod.yml: PROD'
+  property: '[GitHub] licensing-service-prod.yml: PROD'
 
 spring:
   datasource:
